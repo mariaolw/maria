@@ -1,0 +1,40 @@
+class Arithmetics:
+  
+
+  operand1 = 11
+  
+  operand2 = 16
+  
+  operand3 = 20
+ 
+
+  
+ if operand3 > operand1:
+    
+    print (operand1 + operand2)
+ 
+  
+
+ if operand1 == 10 or operand2 == 15:
+    
+    print (operand1)
+
+  
+ elif operand3 < operand2:
+      
+    print (operand2)
+      
+  
+ elif operand3 == operand1 and operand2 == 16:
+    
+    print (operand3)
+  
+ else:
+    
+    print (operand1)
+  
+    print (operand2)
+   
+    print (operand3)
+      
+  
